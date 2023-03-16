@@ -1,0 +1,12 @@
+public class student
+{
+
+    public void m1
+   {
+     system.out.println("m1");
+   }
+   public void m2
+   {
+     system.out.println("m2");
+   }
+}
